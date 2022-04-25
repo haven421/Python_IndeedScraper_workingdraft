@@ -2,7 +2,7 @@
 Working draft of basic web scraper for Indeed - Junior Data Scientist
 
 ### Why this repo is useful
-Helpful tool to find job postings based on unique criteria 
+Tool for finding job postings based on specific criteria 
 
 ### How users can start / receive help
 I used bits of below for help
